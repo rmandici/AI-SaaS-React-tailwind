@@ -1,5 +1,5 @@
 import { Container } from "../shared/Container";
-import logo from "../../assets/RobManLogo.png";
+import logo from "/assets/RobManLogo.png";
 import { NavItem } from "../shared/NavItem";
 import { navItems } from "./Navbar";
 
